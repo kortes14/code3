@@ -10,6 +10,8 @@ int vypocet_velkosti() {
 }
 //druhy komentar 
 //pridalsom komentar
+
+//pridal som 3komentar
 void main() {
 	
 	FILE *f;
